@@ -2,6 +2,7 @@ package com.nt.model;
 
 public class Student {
 private String name;
+private Integer sid;
 
 public Student(String name) {
 	super();
